@@ -1,6 +1,6 @@
 ## My-app System
 
-실험 홈페지입니다.
+실험 홈페지입니다. 감사합니다.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
